@@ -626,7 +626,7 @@ const members2027List = [
     },
     {
         name:"LOKESH PANDEY",
-        img:"./img/2027/Lokesh.jpeg",
+        img:"./img/2027/Lokesh1.jpg",
         post:"Core Member"
     },
     {
@@ -661,7 +661,7 @@ const members2027List = [
     },
     {
         name:"MADHURI VILLURI",
-        img:"./img/2027/Madhuri.jpeg",
+        img:"./img/2027/Madhuri.jpg",
         post:"Core Member"
     },
     {
@@ -691,7 +691,7 @@ const members2027List = [
     },
     {
         name:"AYAN SINHA",
-        img:"./img/2027/Ayan.jpg",
+        img:"./img/2027/Ayan1.jpg",
         post:"Core Member"
     },
     {
